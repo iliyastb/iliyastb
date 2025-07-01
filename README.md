@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Iliyas aka TechBearer, a Tech Enthusiast and Tech Youtuber.
+Hi, I'm iliyas aka TechBearer, a Tech Enthusiast, Tech Youtuber, DevOps and Cloud Engineer.
 
 <!--
 **iliyastb/iliyastb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
