@@ -1,18 +1,11 @@
-### Hi there 👋
-
-Hi, I'm iliyas aka TechBearer, a Tech Enthusiast, Tech Youtuber, DevOps and Cloud Engineer.
-
-<!--
-**iliyastb/iliyastb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Hi 👋, I'm Iliyas Shaik</h2>
+<h4 align="center">Tech Enthusiast | DevOps Engineer | Cloud & Automation Lover</h4>
+---
+### 🚀 This is Me
+- 🧑‍💻 DevOps Engineer passionate about **automation** and **Cloud**
+- ⚙️ I love building CI/CD pipelines, IaC, containerized apps, and cloud deployments
+- 🔭 Currently exploring **Kubernetes**, **Terraform**, **Prometheus/Grafana**
+- 🌱 Learning: **SRE best practices**, **Python for automation**
+- 🛠️ My infinity stones: **k8s**, **Docker**, **Terraform**, **Ansible**, **Shell**, **Linux**
+- 📫 Reach me at: **iliyasshaik.tb@gmail.com**
+---
