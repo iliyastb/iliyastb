@@ -6,7 +6,7 @@
 ### 🚀 This is Me
 - 🧑‍💻 DevOps Engineer passionate about **automation** and **Cloud**
 - ⚙️ I love building CI/CD pipelines, IaC, containerized apps, and cloud deployments
-- 🔭 Currently exploring **Kubernetes**, **Terraform**, **Prometheus/Grafana**
+- 🔭 Currently exploring **Kubernetes**, **Terraform**, **Prometheus/Grafana**, **ELK**
 - 🌱 Learning: **SRE best practices**, **Python for automation**
-- 🛠️ My infinity stones: **k8s**, **Docker**, **Terraform**, **Ansible**, **Shell**, **Linux**
+- 🛠️ My infinity stones: **Linux**, **Shell**, **k8s**, **Docker**, **Terraform**, **Ansible**
 - 📫 Reach me at: **iliyasshaik.tb@gmail.com**
