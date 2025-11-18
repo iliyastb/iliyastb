@@ -10,5 +10,3 @@
 - 🌱 Learning: **SRE best practices**, **Python for automation**
 - 🛠️ My infinity stones: **k8s**, **Docker**, **Terraform**, **Ansible**, **Shell**, **Linux**
 - 📫 Reach me at: **iliyasshaik.tb@gmail.com**
-
----
