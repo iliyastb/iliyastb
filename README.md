@@ -1,12 +1,6 @@
-<div style="text-align: center;">
-  <h2 style="display: inline; font-family: 'Poppins', sans-serif; margin: 0;">
-    Hi 👋 I'm Iliyas Shaik
-  </h2>
-  <h3 style="display: inline; font-family: 'Poppins', sans-serif; margin: 0;">
-    aka Tech Bearer
-  </h3>
-</div>
-
+<h2 align="center">
+  <span style="font-family: 'Courier New', monospace;">Hi 👋 I'm Iliyas</span>
+</h2>
 <h4 align="center">Tech Enthusiast | DevOps Engineer | Cloud & Automation Lover</h4>
 
 ### 🚀 This is Me
