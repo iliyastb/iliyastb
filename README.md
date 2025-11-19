@@ -7,4 +7,3 @@
 - 🔭 Currently exploring **Kubernetes**, **Terraform**, **Prometheus/Grafana**, **ELK**
 - 🌱 Learning: **SRE best practices**, **Python for automation**
 - 🛠️ My infinity stones: **Linux**, **Shell**, **k8s**, **Docker**, **Terraform**, **Ansible**
-- 📫 Reach me at: **iliyasshaik.tb@gmail.com**
